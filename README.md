@@ -1,0 +1,2 @@
+# generatorbookjp-directhitam
+generatorbookjp-directhitam
